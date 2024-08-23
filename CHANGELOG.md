@@ -1,6 +1,7 @@
 # AvroTurf
 
 ## Unreleased
+- Add `register_schemas` option to `encode` method [#210](https://github.com/dasch/avro_turf/pull/210)
 
 ## v1.16.0
 
